@@ -1,0 +1,69 @@
+/*
+Theme Name: offLabs - 2014
+Theme URI: http://www.offlabs.com
+Description: A simple theme that we developed for our website!
+Author: Nathaniel Elliott
+Author URI: http://offlabs.com
+Version: 1.0
+*/
+
+/* Basic Starter */
+body{   
+    font-family: Arial, Helvetica, Georgia, Sans-serif;
+    font-size: 12px;
+    background: #d9d9d9;
+    color: #000000;
+}
+ 
+a:link, a:visited{
+    text-decoration: none; 
+    color: #000000;
+}
+ 
+a:hover{
+    color: #5f5f5f;
+}
+ 
+h1 {
+    font-size: 54px;
+}
+ 
+h3 {
+    font-size: 24px;
+}
+ 
+#wrapper{
+    margin: 0 auto;
+    width: 750px;
+    text-align: left;
+    background: #fff;
+    padding: 20px;
+     
+}
+ 
+#header{
+    width: 750px;
+    height: 100px;
+}
+ 
+#blog{
+    float: left;
+    width: 520px;
+    padding: 0 10px 10px 10px;
+}
+ 
+.sidebar{
+    float: left;
+    width: 200px;
+    margin: 0 0 0 10px;
+    font-size: 14px;
+    list-style: none;
+}
+ 
+#footer{
+    clear: both;
+    text-align: center;
+    height: 50px;
+    background: #ccc;
+    padding: 10px;
+}
