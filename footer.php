@@ -1,10 +1,8 @@
     </div>
     <div id="footer">
       <div class="container">
-        <p class="pull-left text-muted">Copyright 2014, offLabs</p>
-        <div class="pull-right text-muted">
-            <a href="https://twitter.com/offlabs">Twitter</a> | <a href="http://facebook.com/offlabs">Facebook</a> | <a href="http://www.youtube.com/offlabs">YouTube</a> | <a href="http://instagram.com/offlabs">Instagram</a>
-        </div>
+        <p class="pull-left text-muted">&copy; <?php echo date("Y") ?>, <?php bloginfo('name'); ?></p>
+            <?php wp_nav_menu( array( 'sort_column' => 'menu_order', 'menu_class' => 'nav nav-pills pull-right', 'theme_location' => 'footer-menu' ) ); ?>
       </div>
     </div>
  

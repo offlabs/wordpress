@@ -11,6 +11,10 @@ body {
 .hero-unit p, .hero-unit h1 {
 	text-align: left;
 }
+
+#menu-footer {
+    margin-top:10px;
+}
 #blog{
     float: left;
     width: 520px;
