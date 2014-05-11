@@ -6,6 +6,9 @@
  
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
+<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'template_url') ?>/css/main.css" />
+<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'template_url') ?>/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'template_url') ?>/css/sticky-footer-navbar.css" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
  
 <?php
