@@ -26,4 +26,3 @@
 <body>
 <!-- <?php wp_nav_menu( array( 'sort_column' => 'menu_order', 'menu_class' => 'nav', 'theme_location' => 'primary-menu' ) ); ?> -->
     <div class="container">
-      <div class="page-header" style="margin-top:150px;">

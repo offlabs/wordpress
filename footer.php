@@ -1,3 +1,4 @@
+    </div>
     <div id="footer">
       <div class="container">
         <p class="pull-left text-muted">Copyright 2014, offLabs</p>
