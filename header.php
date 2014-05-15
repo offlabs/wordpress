@@ -25,3 +25,4 @@
 </head>
 <body>
     <div class="container">
+    	<div class="topmenu"><?php wp_nav_menu( array( 'sort_column' => 'menu_order', 'menu_class' => 'nav nav-tabs', 'theme_location' => 'primary-menu') ); ?></div>
