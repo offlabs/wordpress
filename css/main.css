@@ -15,15 +15,3 @@ body {
 #menu-footer {
     margin-top:10px;
 }
-#blog{
-    float: left;
-    width: 520px;
-    padding: 0 10px 10px 10px;
-}
-.sidebar{
-    float: left;
-    width: 200px;
-    margin: 0 0 0 10px;
-    font-size: 14px;
-    list-style: none;
-}
